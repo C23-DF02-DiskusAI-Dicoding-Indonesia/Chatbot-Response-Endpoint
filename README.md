@@ -6,13 +6,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/SearchBar-Suggestion-Endpoint.git
+  git clone https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/Chatbot-Response-Endpoint.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd search-bar
+  cd chatbot
 ```
 
 Install dependencies
@@ -24,7 +24,7 @@ Install dependencies
 Start the server
 
 ```bash
-  python run.py
+  python app.py
 ```
 
 
@@ -32,4 +32,4 @@ Start the server
 
 ## Screenshots
 
-<img src="/search-bar/static/images/search.png"></img>
+<img src="/chatbot/static/images/chatbot.png"></img>
