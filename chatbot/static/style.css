@@ -1,0 +1,47 @@
+.container {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.chat-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.chat-messages {
+    height: 400px;
+    overflow-y: scroll;
+}
+
+.chat-input {
+    margin-top: 10px;
+    display: flex;
+}
+
+.chat-input input {
+    flex: 1;
+    padding: 5px;
+}
+
+.chat-input button {
+    padding: 5px 10px;
+    margin-left: 10px;
+}
+
+.message {
+    margin-bottom: 10px;
+}
+
+.user-message {
+    color: blue;
+}
+
+.bot-message {
+    color: green;
+}
