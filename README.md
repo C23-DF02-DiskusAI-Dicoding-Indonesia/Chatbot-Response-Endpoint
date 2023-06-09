@@ -1,6 +1,5 @@
 # Chatbot-Response-Endpoint
-
-This is a simple ML Deployment using flask
+This is a simple ML Deployment using Flask framework. Load the Universal Sentence Encoder module, which has been pre-trained on a large corpus of text. Also, To efficiently store chatbot data, save the pre-encoded responses in a JSON format. Define routes and associate them with specific functions that will handle incoming requests and provide responses. These endpoints will allow users to interact with our chatbot and utilize the search bar.
 
 ## Getting started
 ### Run Locally
@@ -33,6 +32,8 @@ if you can't run that command, try this:
 ```
 Open a web browser and visit http://localhost:5000 to access the main page of your app.
 
-## Congrats!! you can ask anything with our chatbot <3
+## Screenshots
 
 <img src="/chatbot/static/images/chatbot.png"></img>
+
+
